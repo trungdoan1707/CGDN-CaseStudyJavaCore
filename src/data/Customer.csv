@@ -1,0 +1,8 @@
+id,name,birthday,gender,idCard,phone,email,customerType,address,useService
+a60365f8344642bcb695b959ad6e9289,Trung Doan,17/7/1985,Man,2038574938,0935449451,duytrung177@gmail.com,Vip,Da Nang,Villa
+5edc9af4dc064c3bb3453c6c3c63585a,Nguyen Thi Hoa,18/2/1992,Women,3424556333,09463758334,hoa@gmail.com,Standar,Hue,
+5f14a733f46f43539b752fe57f8cbf03,Le Thanh Hung,11/11/1991,mAlE,111 222 333,0967565864,duy@123321.com,Vip,Da Nang,
+2fd8f8ebca7341a68197ff9a25dc2e71,Hoang Phi Hong,11/11/2000,Male,111 222 333,096684646,phiHong@gmail.com,VIP,Nghe An,
+2fd8f8ebca7341a68197ff9a25dc2e71,Hoang Phi Hong,11/11/2001,Male,111 222 333,096684646,phiHong@gmail.com,VIP,Nghe An,
+2fd8f8ebca7341a68197ff9a25dc2e71,Hoang Phi Hong,11/11/2003,Male,111 222 333,096684646,phiHong@gmail.com,VIP,Nghe An,
+2fd8f8ebca7341a68197ff9a25dc2e71,Hoang Phi Hong,11/11/1990,Male,111 222 333,096684646,phiHong@gmail.com,VIP,Nghe An,

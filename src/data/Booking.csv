@@ -1,0 +1,4 @@
+id,name,birthday,gender,idCard,phone,email,customerType,address,useService
+2fd8f8ebca7341a68197ff9a25dc2e71,Hoang Phi Hong,11/11/1990,Male,111 222 333,096684646,phiHong@gmail.com,VIP,Nghe An,5c442db3cb1044eb98a3fb857ff2557b
+a60365f8344642bcb695b959ad6e9289,Trung Doan,17/7/1985,Man,2038574938,0935449451,duytrung177@gmail.com,Vip,Da Nang,b4ddcd6d2615435ba0266770880cb670
+2fd8f8ebca7341a68197ff9a25dc2e71,Hoang Phi Hong,11/11/2001,Male,111 222 333,096684646,phiHong@gmail.com,VIP,Nghe An,51773548ece2446ca0ec2fe0c4000618
